@@ -1,0 +1,7 @@
+C:\Users\Bahad\Documents\Visual Studio\Projects\SNAKE\SNAKE\bin\Release\SNAKE.exe.config
+C:\Users\Bahad\Documents\Visual Studio\Projects\SNAKE\SNAKE\bin\Release\SNAKE.exe
+C:\Users\Bahad\Documents\Visual Studio\Projects\SNAKE\SNAKE\bin\Release\SNAKE.pdb
+C:\Users\Bahad\Documents\Visual Studio\Projects\SNAKE\SNAKE\obj\Release\SNAKE.csproj.CoreCompileInputs.cache
+C:\Users\Bahad\Documents\Visual Studio\Projects\SNAKE\SNAKE\obj\Release\SNAKE.exe
+C:\Users\Bahad\Documents\Visual Studio\Projects\SNAKE\SNAKE\obj\Release\SNAKE.pdb
+C:\Users\Bahad\Documents\Visual Studio\Projects\SNAKE\SNAKE\obj\Release\SNAKE.csprojResolveAssemblyReference.cache
