@@ -1,0 +1,10 @@
+Problems Right Now and Things that i want to do :
+
+- After my Snake hits the end of the playzone i get to the GAMEOVER.cs and there i want to go back to the StartingMenu.cs
+  but if i want to play again, it doesnt start at the startposition that i set , it starts there were i died last.
+  ( better to understand if you try it )
+  
+- My Snake Has only 1x body part, point system works but my Snake doesnt get bigger.
+  I need to write a new Code so that my snake gets bigger by 2 body parts.
+  
+- I have a "Options.cs" but i didnt do anything in it , because i want that my game works first.
